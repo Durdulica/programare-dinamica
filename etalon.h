@@ -6,8 +6,7 @@ using namespace std;
 //sa considera o multime de n etaloane de greutati cunoscute folosite petnru cantarirea cu ajutorul unui taler.
 //sa se det.  o submult. de etaloane care pot fi folosite pt. masurarea unei greutati k
 
-inline int n, k, a[10001], t[10001];
-inline char s[10001];
+inline int n, k, a[10001], t[10001],s[10001];
 
 inline void citire() {
     cout << " Enter the number of weights: ";
